@@ -1,0 +1,6 @@
+name=input("Name: ")
+age=input("Age: ")
+grade=input("Grade:")
+height=input("Height in inches: ")
+fav_colour=input("Favorite colour")
+print(f"Hello! my name is {name},I am {age} years old,my favourite colour is {fav_colour} and im in grade{grade}.I am {height} inches tall.")
