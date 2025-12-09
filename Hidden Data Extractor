@@ -1,0 +1,4 @@
+code=input("Enter the product code: ")
+print("Category: ",code[0:2])
+print("Year: ",code[3:7])
+print("Item ID: ",code[8:12])
